@@ -1,0 +1,27 @@
+{
+  "name": "SimpleDAO Constitution",
+  "description": "The SimpleDAO Constitution is a document that outlines the fundamental principles and framework for SimpleDAO Governance.",
+  "year": 2003,
+  "version": "0.0.1",
+  "ens": "constitution.simpleDAO.eth",
+  "addresses": {
+    "constitution": "", // SimpleConstitution.sol
+    "dao": "", // SimpleDAO.sol
+    "treasury": "",
+    "liquidityFactory": ""
+  },
+  "foundingChain": "mainnet", // Change for testnet deployment
+  "signatories": {
+    "jon.bray.eth": "0x...1", // Add addresses...
+    "0xterman.eth": "0x...2",
+    "nextENS": "0x...3",
+    "lastENS": "0x...n",
+    "treasury.simpleDAO.eth": "0x...D" // DAO Safe address
+  },
+  "amendmentCount": 0,
+  "amendments": {
+    // Amendment name and description
+    "FirstAmendment": "Description of amendment.",
+    "SecondAmendment": "Description of amendment."
+  }
+}
