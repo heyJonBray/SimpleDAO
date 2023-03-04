@@ -40,5 +40,12 @@ The protocol-owned liquidity pool is used to provide liquidity for the SDAO toke
 
 **Note that at this time, SimpleDAO is an experiment in AI-assisted workflow, and the current build has not passed security audits, nor is it ready for mainnet usage.** Progress will be updated here, including a link to the prompts used to create this project.
 
+## Buy me a Coffee
+
+This is a passion project that by working on I hope to gain meaningful insight into decentralized governance and working with AI. To keep that passion burning, donations are welcomed!
+
+ETH: 0xf792aF761CC83024751b48e1C06c06179F517Fba
+BTC: bc1qtaqfrcgln2tpkvlws8gdcwvu5g5cg0wkszg2ru
+
 [1]: https://platform.openai.com/playground
 [2]: https://eips.ethereum.org/EIPS/eip-721
