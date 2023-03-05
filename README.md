@@ -45,6 +45,7 @@ The protocol-owned liquidity pool is used to provide liquidity for the SDAO toke
 This is a passion project that by working on I hope to gain meaningful insight into decentralized governance and working with AI. To keep that passion burning, donations are welcomed!
 
 ETH: 0xf792aF761CC83024751b48e1C06c06179F517Fba
+
 BTC: bc1qtaqfrcgln2tpkvlws8gdcwvu5g5cg0wkszg2ru
 
 [1]: https://platform.openai.com/playground
