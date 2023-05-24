@@ -2,7 +2,9 @@
 
 pragma solidity ^0.8.0;
 
-contract SDAOToken {
+import "@openzeppelin/contracts/access/Ownable.sol";
+
+contract SDAOToken is Ownable {
     string public constant name = "SDAO Token";
     string public constant symbol = "SDAO";
     uint8 public constant decimals = 18;

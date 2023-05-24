@@ -12,7 +12,7 @@ contract SimpleDAO {
     SDAOStaking public staking;
 
     constructor() {
-        sdaoToken = new SDAOToken();
+        sdaoToken = new SDAOToken(1000000000000000000000000); // 1M SDAO
         governance = new Governance(sdaoToken);
         staking = new SDAOStaking(sdaoToken);
         sdaoToken.transferOwnership(address(governance));
